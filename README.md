@@ -1,7 +1,7 @@
 ### Hi, I'm Laputa 👋
 
 <p align="center">
-  <a ><img src="banner.png" alt="Laputa Banner"></a>
+  <a ><img src="banner.jpg" alt="Laputa Banner"></a>
 </p>
 
 <a href="https://www.instagram.com/">
