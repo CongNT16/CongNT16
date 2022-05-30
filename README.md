@@ -7,7 +7,7 @@
 
 
 <a href="https://www.facebook.com/">
-  <img align="left" alt="Instagram" width="22px" src="Facebook_logo.svg" />
+  <img align="left" alt="Instagram" width="22px" src="/img/Facebook_logo.svg" />
 </a>
 <a href="https://discord.com/">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
