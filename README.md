@@ -1,9 +1,11 @@
-### Hi, I'm Laputa 👋
 
 <p align="center">
   <a ><img src="banner.jpg" alt="Laputa Banner"></a>
 </p>
+
 <h1 align="center">Hi, I'm <a >Laputa</a>👋</h1>
+
+
 <a href="https://www.instagram.com/">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
