@@ -6,6 +6,8 @@
 <h1 align="center">Hi, I'm <a >Laputa</a>👋</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
+<p align="center">❤ I'm currently working on Software, Web ...</p>
+
 <a href="https://www.facebook.com/">
   <img align="left" alt="Instagram" width="22px" src="/img/Facebook_logo.svg" />
 </a>
@@ -18,7 +20,5 @@
 <a href="https://www.linkedin.com/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<p align="center">❤ I'm currently working on Software, Web ...</p>
 
 
