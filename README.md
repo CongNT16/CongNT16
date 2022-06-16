@@ -22,5 +22,8 @@
 <a href="https://www.linkedin.com/in/nguyencong1606/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br>
+<br>
+<p> GitHub Profile Summary Cards </p>
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laputa16&theme=nord_bright)
