@@ -1,6 +1,7 @@
 
 <p align="center">
-  <a ><img src="banner.jpg" alt="Laputa Banner"></a>
+  <ahref="https://github.com/Laputa16" >
+    <img src="banner.jpg" alt="Laputa Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a >Laputa</a>👋</h1>
