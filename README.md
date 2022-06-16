@@ -25,5 +25,8 @@
 <br>
 <br>
 <p> GitHub Profile Summary Cards </p>
+<a href="https://github.com/Laputa16" >
+<p> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laputa16&theme=nord_bright)
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laputa16&theme=nord_bright)
+</p></a>
