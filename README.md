@@ -26,7 +26,8 @@
 <br>
 <p> <h4>About me</h4> </p>
 
-<a href="https://github.com/Laputa16"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laputa16&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Laputa's github stats" /></a>     <a href="https://github.com/Laputa16"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laputa16&layout=compact&theme=default&hide_border=true" /></a> 
+| <a href="https://github.com/Laputa16"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laputa16&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Laputa's github stats" /></a> | <a href="https://github.com/Laputa16"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laputa16&layout=compact&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p> <h4>Summary Cards</h4> </p>
 <a href="https://github.com/Laputa16" >
