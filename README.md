@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/Laputa16" >
+  <a href="https://github.com/ThanhCongHE161306" >
     <img src="banner.jpg" alt="Laputa Banner"></a>
 </p>
 
@@ -26,7 +26,7 @@
 <br>
 <p> <h4>About me</h4> </p>
 
-| <a href="https://github.com/ThanhCongHE161306"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laputa16&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Laputa's github stats" /></a> | <a href="https://github.com/ThanhCongHE161306"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laputa16&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/ThanhCongHE161306"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThanhCongHE161306&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Laputa's github stats" /></a> | <a href="https://github.com/ThanhCongHE161306"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhCongHE161306&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p> <h4>Summary Cards</h4> </p>
