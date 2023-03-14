@@ -9,7 +9,7 @@
 
 <p align="center">❤ I'm currently working on Software, Web ...</p>
 
-## **Tech Stacks🧰**<br>
+<p> <h4>Tech Stacks🧰</h4> </p>
 
 <p align='center'>
 
@@ -28,7 +28,6 @@
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql"/> </a>
   
 <p> <h4>Contact me</h4> </p>
-
 <a href="https://www.facebook.com/nguyencong.1606">
   <img align="left" alt="Instagram" width="22px" src="/img/Facebook_logo.svg" />
 </a>
@@ -42,18 +41,21 @@
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
-<br>
 <p> <h4>About me</h4> </p>
 
 | <a href="https://github.com/ThanhCongHE161306"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThanhCongHE161306&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Laputa's github stats" /></a> | <a href="https://github.com/ThanhCongHE161306"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhCongHE161306&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p> <h4>Summary Cards</h4> </p>
-<a href="https://github.com/Laputa16" >
+<a href="https://github.com/ThanhCongHE161306" >
 <p> 
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhCongHE161306&theme=nord_bright)
 </p></a>
+<br>
+
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
 
 
 
