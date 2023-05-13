@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/ThanhCongHE161306" >
+  <a href="https://github.com/CongNT16" >
     <img src="banner.jpg" alt="Laputa Banner"></a>
 </p>
 
