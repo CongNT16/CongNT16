@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/CongNT16" >
+  <a href="https://github.com/VictorNguyen-Dev" >
     <img src="banner.jpg" alt="Laputa Banner"></a>
 </p>
 
@@ -27,7 +27,7 @@
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"/> </a>
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql"/> </a>
   
-<p> <h4>Contact me</h4> </p>
+<p> <h4>📞 Contact Me</h4> </p>
 <a href="https://www.facebook.com/nguyencong.1606">
   <img align="left" alt="Instagram" width="22px" src="/img/Facebook_logo.svg" />
 </a>
@@ -35,16 +35,20 @@
   <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 <br>
-<p> <h4>About me</h4> </p>
+<p> <h4>🔥 GitHub Streak</h4> </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictorNguyen-Dev" alt="GitHub Streak" /></a>
+<p> 
+<br>
+<p> <h4>🏆 Summary Cards</h4> </p>
 
-| <a href="https://github.com/CongNT16"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CongNT16&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Laputa's github stats" /></a> | <a href="https://github.com/CongNT16"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongNT16&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/VictorNguyen-Dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorNguyen-Dev&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Laputa's github stats" /></a> | <a href="https://github.com/VictorNguyen-Dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNguyen-Dev&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p> <h4>Summary Cards</h4> </p>
-<a href="https://github.com/CongNT16" >
+
+<a href="https://github.com/VictorNguyen-Dev" >
 <p> 
 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CongNT16&theme=nord_bright)
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorNguyen-Dev&theme=nord_bright)
 </p></a>
 <br>
 
